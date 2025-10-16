@@ -10,11 +10,11 @@ Alat ini disediakan semata-mata untuk tujuan **edukasi, pengujian keamanan, dan 
 
 * **JANGAN** gunakan alat ini untuk mengakses atau mengganggu jaringan yang bukan milik Anda atau yang Anda tidak memiliki izin tertulisnya.
 * **Cracking** WPA/WPA2 adalah ilegal tanpa izin yang sah. Pengembang tidak bertanggung jawab atas penyalahgunaan alat ini.
-* **Fitur Cracking (Opsi 3):** Membutuhkan file **Handshake (.cap)** yang sudah ditangkap dan perangkat harus sudah menginstal `aircrack-ng`.
+* **Fitur Cracking (Opsi 3):** Membutuhkan file **Handshake (.cap)**.
 
 ## ✨ Fitur Utama
 
-1.  **Analisis Data Pindai:** Membaca, mem-parsing, dan menampilkan data jaringan dari file CSV hasil *dump* (misalnya `scan_results-01.csv` dari Airodump-ng).
+1.  **Analisis Data Pindai:** Membaca, mem-parsing, dan menampilkan data jaringan dari file CSV hasil *dump* (misalnya `scan_results-01.csv`.
 2.  **Status Jaringan Aktif:** Menampilkan status interface jaringan, IP Address, dan MAC Address saat ini (menggunakan `ifconfig` atau `ip a`).
 3.  **Cracking WPA/WPA2 Profesional:**
     * Mengeksekusi perintah **`aircrack-ng`** yang sebenarnya.
